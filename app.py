@@ -94,7 +94,7 @@ if image_path is not None:
     generating_caption = st.markdown('## :orange[Hmmm... Wait...:face_with_monocle:]')
     generated_caption_30 = generate_caption_with_image_path(model_30, image_path, max_length_30, tokenizer_30).capitalize() + '.'
     generated_caption_8 = generate_caption_with_image_path(model_8, image_path, max_length_8, tokenizer_8).capitalize() + '.'
-    time.sleep(1)
+    time.sleep(0.5)
     generating_caption.empty()
     st.markdown('## :green[What I can see is...]')
     st.write(f'### {generated_caption_30}')
