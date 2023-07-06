@@ -2,7 +2,7 @@
 ## About Project
 This project uses a Deep Learning model to generate two captions for each uploaded image using two independently trained models having same architecture on two different datasets.
 ## Datasets
-[Flickr30k](https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset "Flickr30k")
+[Flickr30k](https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset "Flickr30k")<br>
 [Flickr8k](https://www.kaggle.com/datasets/adityajn105/flickr8k "Flickr8k")
 ## Architecture/Technology
 * Numpy
@@ -53,7 +53,7 @@ This project uses a Deep Learning model to generate two captions for each upload
 
 ## Run Command
 
-Clone this repository, open**`app.py`**and run`streamlit run app.py`to use the model locally.
+Clone this repository, open`app.py`and run`streamlit run app.py`to use the model locally.
 
 ## References
 
