@@ -38,6 +38,7 @@ This project uses a Deep Learning model to generate two captions for each upload
 <figcaption align = "center"><b>Model_Flickr8k</b></figcaption>
 <img src="https://github.com/Suryam-Shaurya/Image_Caption_Generator/blob/model_1/img_gif/best_model.png?raw=true" alt="Model_Flickr8k" >
 </figure>
+
 # Working
 
 [![model_working](https://github.com/Suryam-Shaurya/Image_Caption_Generator/blob/model_1/Snapshots/working.gif?raw=true "model_working")](https://github.com/Suryam-Shaurya/Image_Caption_Generator/blob/model_1/Snapshots/working.gif?raw=true "model_working")
