@@ -13,7 +13,7 @@ This project uses a Deep Learning model to generate two captions for each upload
 * LSTM
 * Streamlit
 
-# Working
+# Examples
 
 [![model_working](https://github.com/Suryam-Shaurya/Image_Caption_Generator/blob/model_1/Snapshots/working.gif?raw=true "model_working")](https://github.com/Suryam-Shaurya/Image_Caption_Generator/blob/model_1/Snapshots/working.gif?raw=true "model_working")
 <figure>
