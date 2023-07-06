@@ -50,3 +50,21 @@ This project uses a Deep Learning model to generate two captions for each upload
 <figcaption align = "center"><b>Model_Flickr8k</b></figcaption>
 <img src="https://github.com/Suryam-Shaurya/Image_Caption_Generator/blob/model_1/img_gif/best_model.png?raw=true" alt="Model_Flickr8k" >
 </figure>
+
+## Run Command
+
+Clone this repository, open**`app.py`**and run`streamlit run app.py`to use the model locally.
+
+## References
+
+* https://medium.com/analytics-vidhya/cnn-lstm-architecture-and-image-captioning-2351fc18e8d7
+* https://www.tensorflow.org/api_docs/python/tf
+* https://docs.streamlit.io/
+
+## Future Updates and Enhancements
+
+We are actively working on further improving and expanding the capabilities of our image caption generation model. Here are some of the planned future updates:
+* Exploring advanced language modeling techniques, such as transformer-based models, to enhance the caption generation process.
+* Adding attention mechanisms to the model architecture to improve the alignment between image features and generated captions.
+
+We are committed to continually enhancing this project and welcome any feedback, contributions, or ideas from the open-source community.
